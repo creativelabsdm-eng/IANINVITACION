@@ -1,16 +1,22 @@
-# Invitación de Ian Jafet — GitHub Pages
+# Invitación de Ian Jafet
 
-Este paquete es un sitio estático: no necesita React, Node ni base de datos.
+Invitación digital estática para celebrar los 9 años de Ian Jafet.
 
-## Publicarlo en GitHub Pages
+## Archivos
 
-1. Crea un repositorio público en GitHub, por ejemplo `invitacion-ian-jafet`.
-2. Sube **todo el contenido de esta carpeta** a la raíz del repositorio.
-3. Abre `Settings` → `Pages`.
-4. En `Build and deployment`, elige `Deploy from a branch`.
-5. Selecciona la rama `main`, carpeta `/ (root)` y pulsa `Save`.
-6. Espera uno o dos minutos. GitHub mostrará una dirección similar a `https://TU-USUARIO.github.io/invitacion-ian-jafet/`.
+- `index.html`: estructura de la invitación.
+- `style.css`: diseño responsive y animaciones.
+- `script.js`: contador, galería y confirmación por WhatsApp.
 
-Comparte esa dirección por WhatsApp. No borres ni cambies de lugar la carpeta `assets`, porque contiene las fotos y videos.
+Las fotos y videos se cargan desde la invitación pública autorizada:
+`ian-jafet-cumple-9.loopscapedm.chatgpt.site`.
 
-El contador está configurado para el 16 de agosto de 2026 a las 17:00, hora de Cancún (`UTC-05:00`).
+## Activar GitHub Pages
+
+1. Abre **Settings → Pages**.
+2. En **Build and deployment**, selecciona **Deploy from a branch**.
+3. Elige la rama **main** y la carpeta **/(root)**.
+4. Pulsa **Save**.
+
+La dirección será:
+`https://creativelabsdm-eng.github.io/IANINVITACION/`
