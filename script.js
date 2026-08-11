@@ -1,4 +1,4 @@
-const EVENT_DATE = new Date("2026-08-16T17:00:00-05:00");
+const EVENT_DATE = new Date("2026-08-16T15:00:00-05:00");
 const pad = (value) => String(value).padStart(2, "0");
 
 function updateCountdown() {
